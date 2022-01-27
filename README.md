@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Lance
 
 <!--
 **Lanc33llis/Lanc33llis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Astronomy major at UT Austin. I enjoy computers though, and I intend on being an SDE. I'm taking an internship at Amazon for this summer for SDE @ LA. 
