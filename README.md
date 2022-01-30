@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I'm a Astronomy major at UT Austin. I enjoy computers though, and I intend on being an SDE. I'm taking an internship at Amazon for this summer for SDE @ LA. 
+
+Checkout my startup @ https://allday.pro/. Currently under development, so check out the blog as progress continues.
