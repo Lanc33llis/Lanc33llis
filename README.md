@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an astronomy major at UT Austin. I enjoy computers though, and I intend on being an SDE career-wise. I'm taking an internship at Amazon for this summer for SDE @ LA and have aspirations to work @ Meta and Google as an SDE. 
+I'm an astronomy major at UT Austin. I enjoy computers though, and I intend on being an SDE career-wise. I'm a previous intern @ Amazon, looking to return to Amazon this Spring and intern at places like Stripe and Nuro this summer.
 
-I'm currently doing freelance work for mutiple startups involving drones, fintech, SAAS, and AI. 
+I've done freelancing for startups and on various freelancing platforms. 
