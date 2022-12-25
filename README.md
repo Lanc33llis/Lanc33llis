@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an astronomy major at UT Austin. I enjoy computers though, and I intend on being an SDE career-wise. I'm a previous intern @ Amazon, looking to return to Amazon this Spring and intern at places like Stripe and Nuro this summer.
+I'm an astronomy major at UT Austin. I enjoy computers though, and I intend on being an SDE career-wise. I'm a previous intern @ Amazon and returning this summer. 
 
 I've done freelancing for startups and on various freelancing platforms. 
